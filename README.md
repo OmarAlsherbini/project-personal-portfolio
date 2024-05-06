@@ -1,2 +1,2 @@
-# project-personal-portfolio
-ReactJs Project for my Personal Portfolio
+# Personal Profile Project
+This is the ReactJs Website for My Personal Profile.
